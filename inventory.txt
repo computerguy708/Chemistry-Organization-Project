@@ -1,0 +1,233 @@
+Acetate solid,Cabinet F3,Stock room
+Acetates Solutions,Cabinet D5,Stock room
+Acetic acids commercial bottles and stock solution,Cabinet 187,Lab under hood 3
+Acetic anhydride,Cabinet 183,Lab under hood 3
+Acetyl Chloride,Cabinet 183,Lab under hood 2
+Acid Solution (HCl H2SO4 CH3COOH H3PO4 in students lab bottles),Cabinet 35,Stock room
+Acid Standardized,Cabinet 185,Lab under hood 3
+Air Pump,Cabinet A2,Stock room
+Aluminum Foil,Drawer 28,Stock room
+Aluminum Metal,Cabinet F4 Inorganic 1,Stock room
+Ammonium hydroxide (concentrated and stock solution),Cabinet 189,Lab under hood 4
+Ammonium Nitrate solid (need to be stored seperately),Cabinet B1,Stock room
+Antimony,Cabinet F4 Inorganic 1,Stock room
+Apron masks sleeves,Drawer 9,Stock room
+Balances (new),Cabinet A2,Stock room
+Balloon,Cabinet A4,Stock room
+Base (standardized),Cabinet 188,Lab under hood 4
+Battery,Drawer 7,Stock room
+Beakers,Cabinet B1 E2,Stock room
+Beads,Cabinet A4,Stock room
+Benedict solution,Cabinet F1 MISC,Stock room
+Bithmuth,Cabinet F4 Inorganic 1,Stock room
+Blades,Drawer 32,Stock room
+Bleach,Cabinet 35,Stock room under hood
+Books,Cabinet B4,Stock room
+Bottles,Cabinet I1-I6,Stock room
+Bottle Brushes,Drawer 36,Stock room
+Bottles for Waste,Cabinet 181,Lab under hood 1
+Bromate Solid,Cabinet F4 Inorganic 8,Stock room
+Bromate Solution,Cabinet D4,Stock room
+Bromides Solid,Cabinet F3 Inorganic 2,Stock room
+Bromide Solution,Cabinet D5,Stock room
+Buchner funnels/adapters,Cabinet J3,Lab
+Bunsen burner,End Cabinet,Lab Bench
+Bunsen burner hose,Drawer 170,Lab
+Butane Small Cylinder,Cabinet A4,Stock room
+Buffer Kits,Drawer 2,Stock room
+Buffer solutions,Cabinet D4,Stock room
+Butanioic Acid,Cabinet 183,Lab under hood 2
+Burets,Cabinet C3,Stock room
+Burners,Cabinet B1,Stock room
+Calcium Metal,Cabinet F4 Inorganic 1,Stock room
+Candles and wax,Cabinet A4,Stock room
+Candy,Cabinet 33,Stock room
+Capillary Glass Tubes(melting pt. tubes),Cabinet C2,Stock room
+Carbonate Solid,Cabinet F1 Inorganic 4,Stock room
+Carbonate solution,Cabinet D4,No location specified
+Carbonate solutions,Cabinet D4,Stock room
+Centrifuge sleeves,Cabinet C2,Stock room
+Chloride solid,Cabinet F3 Inorganic 2,Stock room
+Chloride solutions,Cabinet D5,Stock room
+Chloroacetic acid,Cabinet 183,Lab under hood 2
+Chromate solid,Cabinet F1 Inorganic 8,Stock room
+Chromate solution,Cabinet D6,Stock room
+Chromatography paper,Drawer 2,Stock room
+Chromatography paper and plate,Drawer 2,Stock room
+Chromium,Cabinet F4 Inorganic 1,Stock room
+Cilite,Cabinet G2,Stock room
+Clamps,Cabinet C2,Stock room
+Cleaning Supplies,Drawers 25 and 29,Stock room
+Color Meters,Cabinet K-7,Lab
+Condensers (old style),Drawer 55,Stock room
+Conductivity Meters,Cabinet C2,Stock room
+Cork Ring,Cabinet C2,Stock room
+Cork stopper,No location,Stock room/instrument room
+Copper,Cabinet F4 Inorganic 1,Stock room
+Cotton,Cabinet B1,Stock room
+Cotton Oil,Cabinet G2,Stock room
+Crucibles,Cabinet C2,Stock room
+Crucibles (porous),Cabinet B2,Stock room
+Crucible Tangs,Cabinet C2,Stock room
+Crystalizing Dish,Cabinet C1 Drawer 57 59 and 61,Stock room
+Cubes,Drawer 34,Stock room
+Cups,Drawer 21,Stock room
+Cutters,Drawer 7,Stock room
+Cuvette (Semimicro plastic),Cabinet N-3,Instrument room
+Cylinders (for metal density),Drawer 34,Stock room
+Demo kits(Flinn etc.),Cabinet A-3,Stock room
+Density demo kit,Cabinet A4,Stock room
+Dichromate solid,Cabinet F1 Inorganic,Stock room
+Dichromate solution,Cabinet E-4,Stock room
+Diffusion demo,Cabinet A4,Stock room
+Drying Tubes,Cabinet B2 and C2,Stock room
+Electrostatic Materials Kit,Cabinet A-4,Stock room
+Elermayer Flasks,Cabinet D2,Stock room
+Empty Soft Drink Cans/Bottles,Cabinet A5,Stock room
+Evaporating Dishes,Cabinet C2,Stock room
+Fabric,Drawer 32,Stock room
+Filter flask,Drawer 178 179 180,Lab
+Filter paper,Drawer 8 11,Stock room
+Fire blanket/sand,Cabinet J2,Lab
+First Aid Kits,Drawer,Stock room
+Flinn Demo Kits,Cabinet A3,Stock room
+Flints,Drawer 172,Lab
+Flint renewals,Drawer 32,Stock room
+Florence Flasks,Cabinet D1,Stock room
+Fluoride Solid,Cabinet H4 Inorganic II,Stock room
+Fluoride Solution,Cabinet D5,Stock room
+Food color,Cabinet A4,Stock room
+Funnels,Cabinet E1,Stock room
+Gas Chromatography kits,Drawers 203 204 205,Instrument room
+Gas Collecting Bottles,Cabinet E1,Stock room
+Glass Centrifuge Tubes,Cabinet C2 E1,Stock room
+Glass Jars,Cabinet E1,Stock room
+Glass Rods (whole pieces in cabinet A1),Drawer 19,Stock room
+Glass Tubes,Cabinet A1,Stock room
+Gloves,Drawers 22 23 24,Stock room
+Graduated Cylinders,Cabinet E3,Stock room
+Graduated Pipet,Cabinet C1 Drawer 62 64,Stock room
+Heating mantles/rheostats,Drawer 166 167 168,Lab
+Hexanioc Acid,Cabinet 183,Lab under hood 2
+Household products,Cabinet 33,Stock room
+Hydrobromic acid,Cabinet 186,Lab under hood 3
+Hydrochloric acids (concentrate and stock solutions of different conventration),Cabinet 186,Lab under hood 3
+Hydrogen Peroxide Solutions,Cabinet D4,Stock room
+Hydrometer,Cabinet C1,Stock room
+Indicator chemicals,Flammable #1,Stock room
+Indicator solutions,Cabinet H1,Stock room
+IR kits,Drawers 182-185 186,Instrument room
+Inorganic Chemical solids,Cabinet F1-F4,Stock room
+Inorganic crystal model kits,Cabinet A2,Stock room
+Iodic Acid,Cabinet 183,Lab under hood 2
+Iodide solutions,Cabinet D5,Stock room
+Iodine solution,Cabinet 35 and refrigerator,Stock room
+Iodate solid,Cabinet H1,Stock room
+Iodate Solution,Cabinet D4,Stock room
+Iodide solid,Cabinet H3,Stock room
+Iron,Cabinet F4 Inorganic 1,Stock room
+Joints (Y and others glass and metal),Cabinet,Stock room
+Journals,Cabinet A2,Stock room
+Keck Clips,Cabinet C2,Stock room
+Key for student drawers,Cabinet G-3,Stock room
+Kimwipe,Drawers 15 18,Stock room
+Label maker cartridge,Drawer 1,Stock room
+Light Bulb for Electrolytes Demo,Cabinet A4,Stock room
+Magnet,Cabinet A4,Stock room
+Magnesium,Cabinet F4 Inorganic 1,Stock room
+Markers and Pencils,Cabinet A4,Stock room
+Matches,Drawer 32,Stock room
+Marshmallow,Cabinet A4,Stock room
+Measuring tools,Cabinet A4,Stock room
+Medicine,Cabinet H2,Stock room
+Mercury Thermometers,Cabinet C1,Stock room
+Meter Sticks,Cabinet A1,Stock room
+Metric Demo,Cabinet A4,Stock room
+Mineral oil,Cabinet G2,Stock room
+Molybdate solid,Cabinet F1,Stock room
+Molybdate Solution,Cabinet E5,Stock room
+Nichrome Wire (flame test),Cabinet C2,Stock room
+Nickel,Cabinet F4 Inorganic 1,Stock room
+Nitrate solid (except NH4NO3),Cabinet H2,Stock room
+Nitrate solutions,Cabinet E4,Stock room
+Nitric acid (concentrate and stock solutions of different concentration),Cabinet 184,Lab under hood 2
+Nitrite solid,Cabinet H2,Stock room
+Nitrite solutions,Cabinet D4,Stock room
+Nonstandard Glassware,Cabinet B3,Stock room
+Organic acids,Cabinet G1,Stock room
+Organic Compounds,Flammable cabinet #1,Stock room
+Organic Compounds,Flammable cabinet #2,Stock room
+Organic glasswares,Cabinet/drawers 190-204 and 207,Instrument room
+Organic lab supply (CaCl2 and boiling stone etc.),Cabinet K5,Stock room
+Organic models,Cabinet A3,Stock room
+Organic solvents,Flammable Cabinet #2,Stock room
+Oxalate solution,Cabinet D5,Stock room
+Oxalic acid,Cabinet 183,Lab under hood 2
+Oxygen Small Cylinders,Cabinet A4,Stock room
+Pencils,Cabinet A4,Stock room
+Penny,Drawer 34,Stock room
+Permangnate solid,Cabinet F1 Inorganic,Stock room
+Permangnate solution,Cabinet E4,Stock room
+Persulfate solution,Cabinet E4,Stock room
+Petri Dishes,Cabinet C1 Drawer 58 60,Stock room
+pH Meters,Cabinet K7,Lab
+pH Papers,Cabinet C2,Stock room
+Phosphate solid,Cabinet F2,Stock room
+Phosphates solutions,Cabinet D4,Stock room
+Phosphoric acids (concentrated and stock solutions of different concentration),Cabinet,Lab
+Photometers,Cabinet N3,Instrument room
+Pipets (plastic and glass),Drawers 14 15 and 17,Stock room
+Plastic Bags,Cabinet A5,Stock room
+Posters (students),Cabinet A2,Stock room
+Potassium metal,Cabinet F4 Inorganic 1,Stock room
+Potassium Ferrocyanide/Potassium Ferricyanide,Cabinet D5,Instrument room
+Potassium Hydroxide solution,Cabinet,Lab
+Pressure Gauge,Cabinet A4,Stock room
+Propanoic Acid,Cabinet 183,Lab under hood 2
+Proteins,Cabinet G2,Stock room
+Rubber Bulbs,Cabinet C2,Stock room
+Rubber Stopper #0-#10,Cabinet B2,Stock room
+Rubber Stopper for students,Drawer 169,Lab
+Ruler,Drawer 32,Stock room
+Scissors,Drawer 7,Stock room
+Scoops Spatulas Stirring Rods,Drawer 19,Stock room
+Seperation funnels,Cabinet 56,Stock room
+Septums,Cabinet C2,Stock room
+Sharpies,Cabinet C2,Stock room
+Sidearm flask,Drawers 174 178 179 180,Lab
+Silica gel,Cabinet G2,Stock room
+Silicon,Cabinet F4 Inorganic 1,Stock room
+Sodium,Cabinet F4 Inorganic 1,Stock room
+Sodium hydrogen arsenate solution,Cabinet 35,Stock room
+Sodium hydroxide solid,Cabinet F1,Stock room
+Sodium hydroxide solutions,Cabinet 190,Lab under hood 4
+Spatalus,Drawer 19,Stock room
+Stirring Plates new,Cabinet A2,Stock room
+Sugar,Cabinet G2,Stock room
+Sulfate solid,Cabinet F3 Inorganic 2,Stock room
+Sulfates solutions,Cabinet D4,Stock room
+Sulfides solutions,Cabinet D4,Stock room
+Sulfuric acid (concentrate and stock solutions),Cabinet,Stock room
+Sugar,Cabinet G2,Stock room
+Syringes (glass and plastic and needles),Cabinet B2 Drawers 186 188 189,Stock room
+Test Papers,Cabinet C2,Stock room
+Test Tubes,Cabinet C3 and 30,Stock room
+Thermometer (alcohol),Cabinet C2,Stock room
+Thermometer (digital),Cabinet C2,Stock room
+Thiocyanates solutions,Cabinet D5,Stock room
+TLC Chamber,Cabinet C2 and B2,Stock room
+Toys,Cabinet A3,Stock room
+Tubings,Drawers 173 175 176 177,Stock room
+Unknowns/others of all labs,Cabinet F5,Stock room
+Vacuum grease,Drawer 32,Stock room
+Vernier Lab Pro devices and accessories,Cabinet K6 K7 K8,Lab
+Vernier Meters,Cabinet A2,Stock room
+Vials,Drawers 4 and 10,Stock room
+Volumetric Flasks,Cabinet D3,Stock room
+Washing Bottles,Cabinet B3,Stock room
+Watching glass,Cabinet C2,Stock room
+Water filter cartridge,Cabinet 27,Stock room
+Well Plates,Cabinet C2,Stock room
+Wires (with/without alligators),Cabinet B2,Stock room
+Wood Splints,Cabinet C2,Stock room
+Zipper bags,Drawer 9,Stock room
